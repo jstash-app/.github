@@ -9,4 +9,4 @@
 
 Free includes 1 app with up to 100 users. No card. [Pricing](https://jstash.app/pricing/).
 
-Run by Neonook Pty Ltd, Australia · [hello@jstash.app](mailto:hello@jstash.app)
+Questions: [hello@jstash.app](mailto:hello@jstash.app)
